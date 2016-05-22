@@ -1,4 +1,6 @@
-# Angular 2 QuickStart Source
+# Angular 2 Tut
+
+> Started with a fork of the quickstart tutorial code, then began working through the "Tour of Heroes" tut.
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
 the foundation for most of the documentation samples and potentially a good starting point for your application.
